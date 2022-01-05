@@ -10,4 +10,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Javascript 💻️Visual Studio Code
 
-## Feito com Jesse Junior
+## Feito Jesse Junior
